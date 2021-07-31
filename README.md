@@ -1,5 +1,7 @@
 # will-it-play (on a PS4)
 
+## Thanks to @xavdid for his project!
+
 I was tired of having local home video files not play on my **Playstation 4**. Now at least I'll know that's the case before I get all the way to the console w/ a flash drive.
 
 ![npm](https://img.shields.io/npm/v/will-it-play)
